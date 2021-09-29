@@ -1,0 +1,16 @@
+.formBox {
+  height: 10%;
+  padding-top: 10px;
+  background-color: rgb(198, 255, 252);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.formBox input {
+  background-color: rgb(210, 226, 255);
+}
+
+.formBox button {
+  font-size: calc(5px + 1vmin);
+}
